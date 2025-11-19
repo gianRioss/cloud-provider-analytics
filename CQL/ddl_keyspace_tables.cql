@@ -1,0 +1,1 @@
+-- Keyspace y tablas resumidas (puedes pegar aquí tu DDL completo)

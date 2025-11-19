@@ -1,0 +1,13 @@
+secure-connect-*.zip
+*-token.json
+.env
+*.parquet
+*.orc
+*.avro
+*.gz
+*.zip
+datalake/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
